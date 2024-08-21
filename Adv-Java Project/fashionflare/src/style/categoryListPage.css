@@ -1,0 +1,115 @@
+.category-list {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 80px rgba(0, 0, 0, 0.1);
+    margin-bottom: 250px;
+    text-align: center; /* Center content horizontally */
+}
+
+.category-list h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.search-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 1rem;
+}
+
+.category-list ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center; /* Center items horizontally */
+}
+
+.category-list li {
+    flex: 1 1 calc(33.33% - 20px);
+    max-width: calc(33.33% - 20px);
+    display: flex; /* Center content inside the card */
+    justify-content: center;
+}
+
+.category-list button {
+    width: 100%;
+    padding: 15px;
+    font-size: 1.2rem;
+    background-color: #f68b1e;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow to the button */
+}
+
+.category-list button:hover {
+    background-color: #e57a1e;
+    transform: scale(1.05);
+}
+
+.category-list button:focus {
+    outline: 3px solid #ff9800;
+}
+
+.category-icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+}
+
+.error-message {
+    color: red;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+.loading-spinner {
+    border: 8px solid #f3f3f3;
+    border-top: 8px solid #f68b1e;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+    margin: 0 auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@media (max-width: 768px) {
+    .category-list li {
+        flex: 1 1 calc(50% - 20px);
+        max-width: calc(50% - 20px);
+    }
+    .category-list button {
+        font-size: 1rem;
+        padding: 12px;
+    }
+}
+
+@media (max-width: 480px) {
+    .category-list li {
+        flex: 1 1 calc(100% - 20px);
+        max-width: calc(100% - 20px);
+    }
+    .category-list button {
+        font-size: 0.9rem;
+        padding: 10px;
+    }
+}

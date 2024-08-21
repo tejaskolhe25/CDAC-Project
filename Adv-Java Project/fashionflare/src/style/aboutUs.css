@@ -1,0 +1,55 @@
+.about-us-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.about-us-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #090909;
+}
+
+.about-us-container h3 {
+    margin-top: 20px;
+    color: #333;
+}
+
+.about-us-container p {
+    margin-bottom: 15px;
+    color: #555;
+}
+
+.cards-container {
+    display: flex;
+    justify-content: space-between; /* Space out the cards evenly */
+    margin-top: 40px; /* Add some space before the card section */
+}
+
+.card {
+    flex: 1;
+    margin: 0 10px; /* Space between the cards */
+    border: 1px solid #ddd; /* Optional: Add a border around each card */
+    border-radius: 8px; /* Optional: Rounded corners */
+    overflow: hidden; /* Ensure content doesn't overflow */
+    text-align: center; /* Center-align text */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
+}
+
+.card img {
+    width: 100%; /* Make sure the image takes up the full card width */
+    height: auto;
+}
+
+.card h4 {
+    margin: 10px 0; /* Space above and below the heading */
+    color: #007bff; /* Optional: Change heading color */
+}
+
+.card p {
+    padding: 0 10px 20px 10px; /* Add padding inside the card */
+    color: #555; /* Optional: Change paragraph text color */
+}

@@ -1,0 +1,45 @@
+.admin-page{
+    margin-bottom: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.admin-page h1{
+    margin-bottom: 20xp;
+    font-size: 35px;
+}
+.admin-page button{
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 8px;
+    font-weight: 700;
+    border: none;
+    cursor: pointer;
+    background-color: #f68b1e;
+    width: 35%;
+    color: #fff;
+}
+@media (max-width: 768px) {
+    .admin-page h1 {
+        font-size: 28px;
+    }
+    .admin-page button {
+        width: 60%;
+        font-size: 18px;
+        padding: 15px;
+    }
+}
+@media (max-width: 480px) {
+    .admin-page h1 {
+        font-size: 24px;
+    }
+    .admin-page button {
+        width: 80%;
+        font-size: 16px;
+        padding: 12px;
+    }
+}
+.admin-page button:hover{
+    background-color: #a45d17;
+}

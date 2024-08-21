@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\services\\carthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:services\\carthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\services\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:services\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\controllers\\adminorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:controllers\\adminorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\views\\store\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:views\\store\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\views\\cart\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:views\\cart\\confirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\controllers\\clientorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:controllers\\clientorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|c:\\users\\tejas kolhe\\downloads\\fashionflaremvc\\fashionflaremvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364CD2D1-BABC-487C-A719-BE50D4C1587B}|FashionFlareMVC.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "Controllers\\CheckoutController.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAqwK4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:59:35.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowEYBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:56:58.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Services\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "Services\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Services\\DatabaseInitializer.cs",
+              "RelativeToolTip": "Services\\DatabaseInitializer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwDkAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:04:01.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Services\\CartHelper.cs",
+              "RelativeDocumentMoniker": "Services\\CartHelper.cs",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Services\\CartHelper.cs",
+              "RelativeToolTip": "Services\\CartHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:03:17.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Services\\EmailSender.cs",
+              "RelativeToolTip": "Services\\EmailSender.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:04:31.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\AdminOrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminOrdersController.cs",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\AdminOrdersController.cs",
+              "RelativeToolTip": "Controllers\\AdminOrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:58:30.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAqwP0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:00:42.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "Controllers\\TeamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:01:34.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwCEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:05:13.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T18:05:08.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Views\\Store\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Store\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Views\\Store\\Details.cshtml",
+              "RelativeToolTip": "Views\\Store\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T18:05:03.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Checkout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "Views\\Checkout\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T18:04:58.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Confirm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Views\\Cart\\Confirm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Confirm.cshtml",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Views\\Cart\\Confirm.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Confirm.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T18:04:53.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Models\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Models\\LoginDto.cs",
+              "RelativeToolTip": "Models\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:04:46.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Services\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:03:00.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:00:38.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAQwJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:01:38.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "Controllers\\StoreController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAQwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:01:02.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientOrders.cs",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\ClientOrders.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientOrders.cs",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\ClientOrders.cs",
+              "RelativeToolTip": "Controllers\\ClientOrders.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwEQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:59:56.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Tejas Kolhe\\Downloads\\FashionFlareMVC\\FashionFlareMVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAYwIUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:59:01.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+/* Container styles */
+.team-container {
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 150px;
+}
+
+.team-container h1 {
+  font-size: 36px;
+  margin-bottom: 40px;
+  color: #333;
+  font-weight: bold;
+  position: relative;
+  display: inline-block;
+}
+
+.team-container h1::after {
+  content: '';
+  width: 50%;
+  height: 3px;
+  background-color: #3498db;
+  position: absolute;
+  bottom: -10px;
+  left: 25%;
+  transition: width 0.3s ease;
+}
+
+.team-container h1:hover::after {
+  width: 100%;
+  left: 0;
+}
+
+/* Grid styles */
+.team-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+/* Team member card styles */
+.team-member {
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  padding: 20px;
+  max-width: 220px;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+  background-color: #fff;
+  position: relative;
+  overflow: hidden;
+}
+
+.team-member:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  background-color: #f7f7f7;
+}
+
+.team-member::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 5px;
+  background-color: #3498db;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s ease;
+}
+
+.team-member:hover::before {
+  transform: scaleX(1);
+}
+
+/* Image styles */
+.team-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 15px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.team-member:hover .team-photo {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Name and role styles */
+.team-name {
+  font-size: 20px;
+  margin: 15px 0 10px;
+  color: #444;
+  font-weight: 600;
+}
+
+.team-role {
+  font-size: 14px;
+  color: #888;
+  margin-bottom: 15px;
+}
+
+/* Social media icons */
+.team-member .social-links {
+  margin-top: 10px;
+}
+
+.social-links a {
+  font-size: 18px;
+  margin: 0 10px;
+  color: #3498db;
+  transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+  color: #2980b9;
+}
+
+/* Tooltip for additional info */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}

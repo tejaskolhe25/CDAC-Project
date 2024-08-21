@@ -1,0 +1,35 @@
+/* src/style/footer.css */
+.footer {
+    background-color: #333; /* Grey background */
+    color: white; /* White text color */
+    text-align: center; /* Center text */
+    padding: 20px 0; /* Padding for spacing */
+}
+
+.footer-links ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+    display: flex;
+    justify-content: center; /* Center the links */
+    gap: 20px; /* Space between links */
+}
+
+.footer-links a {
+    color: white; /* White text color for links */
+    text-decoration: none; /* Remove underline from links */
+    font-weight: bold; /* Bold text */
+}
+
+.footer-links a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+.footer-info {
+    margin-top: 10px; /* Space between links and info text */
+}
+
+.footer-info p {
+    margin: 0; /* Remove margin */
+    font-size: 14px; /* Font size for copyright text */
+}
